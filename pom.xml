@@ -23,8 +23,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub leopoldk2410 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/leopoldk2410/mvn-repo</url>
+            <name>GitHub leopold2410 Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/leopold2410/mvn-repo</url>
         </repository>
     </distributionManagement>
 
